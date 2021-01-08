@@ -18,6 +18,8 @@
         "**.lot": true,
         "**.out": true,
         "**.bbl": true,
+        "**.fls": true,
+        "**.fdb_latexmk": true,
         "**.blg": true
     }
 }
