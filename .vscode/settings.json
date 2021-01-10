@@ -20,6 +20,7 @@
         "**.bbl": true,
         "**.fls": true,
         "**.fdb_latexmk": true,
-        "**.blg": true
+        "**.blg": true,
+        "**.dvi": true
     }
 }
